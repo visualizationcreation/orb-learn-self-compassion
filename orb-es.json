@@ -1,0 +1,331 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Ponte de tu lado",
+    "scope": "Un poco más de espacio · Ocho lecturas educativas breves con prácticas cotidianas opcionales. No son diagnóstico ni tratamiento.",
+    "visualQuery": "everyday mental wellbeing",
+    "intent": {
+      "subject": "Ponte de tu lado",
+      "direction": "Explore a practical psychological perspective with ordinary examples and realistic limits.",
+      "perspective": "Public education; gentle, optional practices without clinical promises.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      }
+    },
+    "readings": [
+      {
+        "id": "orb-learn-self-compassion-p01",
+        "label": "Un error no te define",
+        "text": "Puedes responsabilizarte de un error sin convertirte en ese error. La autocompasión empieza con esa diferencia: algo salió mal y aun así mereces una respuesta útil y humana.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Puedes responsabilizarte de un error sin convertirte en ese error. La autocompasión empieza con esa diferencia: algo salió mal y aun así mereces una respuesta útil y humana.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "A mistake is not your identity",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "Introduction to the practice.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p02",
+        "label": "Observa tu tono interior",
+        "text": "Imagina que olvidaste una cita. Tu voz interior podría decir: Siempre lo arruino todo. Haz una pausa para escuchar ese tono. ¿Describe el problema o ataca a la persona entera?",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Imagina que olvidaste una cita. Tu voz interior podría decir: Siempre lo arruino todo. Haz una pausa para escuchar ese tono. ¿Describe el problema o ataca a la persona entera?",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Notice the tone",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p03",
+        "label": "Describe lo que ocurrió",
+        "text": "Prueba una frase concreta: Olvidé una cita y eso afectó a alguien. Hablar con precisión deja espacio para reparar. Un insulto general aporta mucha menos información sobre qué hacer después.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Prueba una frase concreta: Olvidé una cita y eso afectó a alguien. Hablar con precisión deja espacio para reparar. Un insulto general aporta mucha menos información sobre qué hacer después.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Describe what actually happened",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p04",
+        "label": "Trátate con justicia",
+        "text": "Piensa cómo hablarías con alguien a quien respetas. Podrías reconocer las consecuencias y ayudarle a pensar en un siguiente paso. Esa combinación de honestidad y cuidado también puede incluirte a ti.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Piensa cómo hablarías con alguien a quien respetas. Podrías reconocer las consecuencias y ayudarle a pensar en un siguiente paso. Esa combinación de honestidad y cuidado también puede incluirte a ti.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Offer yourself a fair response",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p05",
+        "label": "La amabilidad puede ser sencilla",
+        "text": "Si las palabras cariñosas te parecen falsas, empieza con algo neutral: Esto es difícil, ¿qué ayudaría ahora? No tienes que fabricar afecto ni repetir una afirmación que no puedes creer.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Si las palabras cariñosas te parecen falsas, empieza con algo neutral: Esto es difícil, ¿qué ayudaría ahora? No tienes que fabricar afecto ni repetir una afirmación que no puedes creer.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Neutral kindness is enough",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p06",
+        "label": "Incluye la reparación",
+        "text": "La compasión no elimina la responsabilidad. Puedes disculparte, cambiar la cita o poner un recordatorio. La pregunta pasa a ser cómo responder de forma constructiva, no cómo castigarte con más dureza.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "La compasión no elimina la responsabilidad. Puedes disculparte, cambiar la cita o poner un recordatorio. La pregunta pasa a ser cómo responder de forma constructiva, no cómo castigarte con más dureza.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Let kindness include repair",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p07",
+        "label": "Elige un gesto de cuidado",
+        "text": "Una acción de cuidado puede ser comer, descansar, pedir ayuda o reducir una exigencia poco realista. Elige algo que encaje con tus circunstancias. Cuidarte no tiene que ser caro ni impresionante.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Una acción de cuidado puede ser comer, descansar, pedir ayuda o reducir una exigencia poco realista. Elige algo que encaje con tus circunstancias. Cuidarte no tiene que ser caro ni impresionante.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose one act of care",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-self-compassion-p08",
+        "label": "No evalúes tu compasión",
+        "text": "Si esto te resulta extraño, no es otro fracaso. Vuelve a intentarlo con suavidad o busca apoyo profesional. La autocompasión es una forma de responder a las dificultades, no una obligación de sentirte bien.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Si esto te resulta extraño, no es otro fracaso. Vuelve a intentarlo con suavidad o busca apoyo profesional. La autocompasión es una forma de responder a las dificultades, no una obligación de sentirte bien.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Do not grade your compassion",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p02",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p03",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p04",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p05",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p06",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p07",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-self-compassion-p01",
+        "to": "orb-learn-self-compassion-p08",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Warm ivory readings in the Orbiversity sunset studio."
+    },
+    "courseOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Building self-compassion",
+        "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Self-Compassion",
+        "publisher": "www.cci.health.wa.gov.au",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "language": "es",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Wellbeing",
+    "tags": [
+      "mental health",
+      "ORB Learn"
+    ],
+    "library": [
+      {
+        "title": "Building self-compassion",
+        "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Self-Compassion",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}
